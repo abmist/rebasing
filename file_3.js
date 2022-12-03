@@ -1,1 +1,1 @@
-// text1 v2 - modified by colaborador
+// text1 - modified by colaborador
